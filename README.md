@@ -2,4 +2,4 @@
 
 Sample website.
 
-Link : http://weed14.pythonanywhere.com/contact.html
+Link : http://weed14.pythonanywhere.com
